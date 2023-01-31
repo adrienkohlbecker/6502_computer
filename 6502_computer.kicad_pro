@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.7874,
+          "height": 1.5748,
+          "width": 1.5748
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.32999999999999996
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -379,14 +379,15 @@
         "microvia_drill": 0.1,
         "name": "Bigger",
         "nets": [
+          "/+5V(MEGA)",
           "GND",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.293624,
-        "via_diameter": 0.12,
-        "via_drill": 0.6,
+        "via_diameter": 0.9,
+        "via_drill": 0.4,
         "wire_width": 6.0
       }
     ],
