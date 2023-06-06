@@ -5,10 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "Project Title")
-    (date "Date")
-    (rev "REV")
-    (comment 2 "<REPO-URL>")
+    (title "6502 computer")
+    (date "2023-02-20")
+    (rev "1")
+    (comment 2 "https://github.com/adrienkohlbecker/6502_computer")
     (comment 3 "Licensed under CERN-OHL-W v2")
     (comment 4 "Copyright © 2022 Adrien Kohlbecker")
   )
